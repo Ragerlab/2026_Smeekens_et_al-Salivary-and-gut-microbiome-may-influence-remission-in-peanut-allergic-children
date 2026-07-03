@@ -1,5 +1,6 @@
-# P1013. Microbiome Peanut Allergy
-This code was generated to support the manuscript titled 'XX', soon to be published.
+# Salivary and gut microbiome may influence remission in peanut allergic children undergoing sublingual immunotherapy 
+
+This code was generated to support the manuscript titled 'Salivary and gut microbiome may influence remission in peanut allergic children undergoing sublingual immunotherapy', soon to be published.
 
 These analyses were used to determine if there were differences in the oral and gut microbiome between children that ended up undergoing remission from peanut allergies and how those changes were modified by treatment. All analyses in this respository are designated by their figure number or table number in the manuscript in parantheses. In the instance that the files are unable to rendered, they can be rendered at the [NBViewer link]().
 
