@@ -13,5 +13,5 @@ These analyses were used to determine if there were differences in the oral and 
   - Comparing participants' outcome (remission vs. failures) before and after treatment
   - Performing a paired analysis comparing participants' abundances based on time point (before or after treatment)
  
-# 3. Indvidual Bacteria Visualizations
+# 3. Indvidual Bacteria Visualizations (Figures 1 & 2)
 - Created volcano plots to visualize aforementioned statistical results from comparing microbiome abundances
