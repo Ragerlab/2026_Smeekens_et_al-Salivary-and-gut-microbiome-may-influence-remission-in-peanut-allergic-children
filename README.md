@@ -7,7 +7,7 @@ These analyses were used to determine if there were differences in the oral and 
 # 1. Data Processing
 - Filtering out participants and bacteria with low counts
   
-# 2. Indvidual Bacteria Analyses
+# 2. Indvidual Bacteria Analyses (Table S1-S5)
 - Testing for statistically significant differences in the saliva and gut microbiomes using the following models:
   - Comparing all participants' IgE levels (high vs. low) at baseline
   - Comparing participants' outcome (remission vs. failures) before and after treatment
